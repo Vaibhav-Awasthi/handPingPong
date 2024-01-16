@@ -6,3 +6,11 @@ Before you begin, ensure you have the following prerequisites:
 
  1. Python 3.x installed on your system.
  2. Webcam or camera connected to your computer.
+
+# Installation
+1. Clone or download the repository to your local machine.
+ git clone https://github.com/EmrNITK/Ping-Pong
+2. Navigate to the project directory.
+ cd Ping-Pong
+3. Install the required dependencies using pip.
+ pip install -r requirements.txt
