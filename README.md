@@ -9,8 +9,9 @@ Before you begin, ensure you have the following prerequisites:
 
 # Installation
 1. Clone or download the repository to your local machine.
- git clone https://github.com/EmrNITK/Ping-Pong
+ [Link Text](git clone https://github.com/EmrNITK/Ping-Pong)
+
 2. Navigate to the project directory.
- cd Ping-Pong
+ [Link Text](cd Ping-Pong)
 3. Install the required dependencies using pip.
- pip install -r requirements.txt
+ [Link Text] (pip install -r requirements.txt)
